@@ -25,7 +25,7 @@ This project is built with [LangGraph](https://langgraph.dev), [OpenAI](https://
 ⬜ Optional: OpenAI LLM copy (currently template-based)
 
 ---
-
+```
 ## 🧱 Project Structure
 
 ```
