@@ -1,0 +1,11 @@
+langgraph
+pydantic
+python-dateutil
+pendulum
+orjson
+typer
+rich
+pandas
+openai
+python-dotenv
+pydantic-settings
